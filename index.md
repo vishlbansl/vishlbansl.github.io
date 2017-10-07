@@ -1,9 +1,10 @@
 ## Lets talk about Type 1 and Type 2 Errors:-
 
-You can use the [editor on GitHub](https://github.com/vishlbansl/vishlbansl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+|   | H<sub>0 is True | H<sub>1 is True |
+|---|---|---|
+|Accept H<sub>0|Correct Decision, Probability=1-a|Type II Error, Probability=b|
+|Reject H<sub>0|Type I Error, Probability=a, Significance Level|Correct Decision, Probability=1-b, Power of Test|
+ 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
