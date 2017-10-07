@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Lets talk about Type 1 and Type 2 Errors:-
 
 You can use the [editor on GitHub](https://github.com/vishlbansl/vishlbansl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
